@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.4dbf61fb.chunk.css",
+    "main.js": "/personal-website/static/js/main.8ac1fb94.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.8ac1fb94.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.bb8d2403.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.bb8d2403.js.map",
+    "static/js/2.54f9668f.chunk.js": "/personal-website/static/js/2.54f9668f.chunk.js",
+    "static/js/2.54f9668f.chunk.js.map": "/personal-website/static/js/2.54f9668f.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.1fa32e95919fe490bb3199e58de87224.js": "/personal-website/precache-manifest.1fa32e95919fe490bb3199e58de87224.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/main.4dbf61fb.chunk.css.map": "/personal-website/static/css/main.4dbf61fb.chunk.css.map",
+    "static/js/2.54f9668f.chunk.js.LICENSE": "/personal-website/static/js/2.54f9668f.chunk.js.LICENSE",
+    "static/media/UXUI-01.png": "/personal-website/static/media/UXUI-01.47a61e96.png",
+    "static/media/code-01.png": "/personal-website/static/media/code-01.1257919c.png",
+    "static/media/gradilogo.png": "/personal-website/static/media/gradilogo.8c0cf96f.png",
+    "static/media/graphicdesign-01.png": "/personal-website/static/media/graphicdesign-01.16952213.png",
+    "static/media/portfolioheadshot.png": "/personal-website/static/media/portfolioheadshot.dee61fd9.png",
+    "static/media/portfoliolanding.png": "/personal-website/static/media/portfoliolanding.54cc5166.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb8d2403.js",
+    "static/js/2.54f9668f.chunk.js",
+    "static/css/main.4dbf61fb.chunk.css",
+    "static/js/main.8ac1fb94.chunk.js"
+  ]
+}
